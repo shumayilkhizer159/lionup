@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="none" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+<circle cx="70" cy="70" r="70" fill="#EFEFEF"/>
+<rect transform="translate(11.667 11.667)" width="116.67" height="116.67" rx="2" fill="#fff"/>
+<path transform="translate(11.667 11.667)" d="m0 11.667v103c0 1.104 0.89543 2 2 2h112.67c1.104 0 2-0.896 2-2v-103m-116.67 0v-9.6667c0-1.1046 0.89543-2 2-2h112.67c1.104 0 2 0.89543 2 2v9.6667m-116.67 0h116.67m-110.83-5.8334h2.9167m5.8333 0h2.9167m5.8333 0h2.9167" stroke="#1B212B" stroke-linecap="round" stroke-width="3"/>
+<rect transform="translate(17.5 93.333)" width="105" height="29.167" stroke="#1B212B" stroke-dasharray="3 3" stroke-width="3"/>
+<path transform="translate(24.792 102.08)" d="M7.29167 11.6667L0 5.83333L7.29167 0M11.6667 11.6667L17.5 0M21.875 0L29.1667 5.83333L21.875 11.6667" stroke="#1B212B" stroke-linecap="square" stroke-width="3"/>
+<rect transform="translate(17.5 64.167)" width="105" height="23.333" fill="#BCD5EC"/>
+<rect transform="translate(17.5 29.167)" width="105" height="29.167" stroke="#1B212B" stroke-dasharray="3 3" stroke-width="3"/>
+<path transform="translate(24.792 37.917)" d="M7.29167 11.6667L0 5.83333L7.29167 0M11.6667 11.6667L17.5 0M21.875 0L29.1667 5.83333L21.875 11.6667" stroke="#1B212B" stroke-linecap="square" stroke-width="3"/>
+</svg>
